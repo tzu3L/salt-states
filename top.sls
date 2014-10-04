@@ -5,7 +5,7 @@
 base:
   '*':
     - core
-    - saltsrc
+#    - saltsrc
     - users
     - python
   'os:CentOS':
