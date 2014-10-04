@@ -2,4 +2,4 @@ def run():
     '''
     Return a string to be added to a file
     '''
-    return 'foobar!\n'
+    return 'foobar! de pyrender werkt!\n'
