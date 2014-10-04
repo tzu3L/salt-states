@@ -1,12 +1,12 @@
 include:
-  - vim
+#  - vim
   - date
-  - crons
-  - http
+#  - crons
+#  - http
   - saltsrc
   - ssh
-  - files
-  - hosts
+#  - files
+#  - hosts
 
 psmisc:
   pkg:
